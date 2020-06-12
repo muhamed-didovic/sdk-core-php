@@ -25,5 +25,7 @@
         "psr-0": {
             "MasterCard": ["MasterCard/", "Test/"]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
