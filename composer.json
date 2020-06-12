@@ -9,12 +9,6 @@
             "email": "APISupport@mastercard.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/muhamed-didovic/sdk-core-php"
-        }
-    ],
     "require": {
         "guzzlehttp/guzzle": "^6.1",
         "monolog/monolog": "^2.1"
